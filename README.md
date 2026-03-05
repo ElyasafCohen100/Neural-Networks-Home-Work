@@ -1,4 +1,8 @@
-# 🧠 Neural Networks Homework – Deep Learning Experiments 🚀
+<p align="center">
+  <img src="3.png"/>
+</p> 
+
+# 🧠 Neural Networks Homework – Deep Learning Experiments 🚀 
 
 ![GitHub stars](https://img.shields.io/github/stars/ElyasafCohen100/Neural-networks-Home-work?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/ElyasafCohen100/Neural-networks-Home-work?style=social)
@@ -14,11 +18,11 @@
 
 ## 💥Project Overview 💥
 
-This repository contains my **homework assignments for the Neural Networks course**.
+This repository contains my **homework assignments for the Neural Networks course** 📚🧑‍💻.
 
-The project focuses on **building, training, and analyzing neural network models**, experimenting with different architectures and techniques used in modern deep learning.
+The project focuses on **building, training, and analyzing neural network models**, experimenting with different architectures and techniques used in modern deep learning 🤖🚀.
 
-Each assignment explores a different concept in neural networks — from basic models to more advanced techniques like **Dropout, Data Augmentation, and CNN experiments**.
+Each assignment explores a different concept in neural networks — from basic models to more advanced techniques like **Dropout, Data Augmentation, and CNN experiments** 🧩🧬📊.
 
 ---
 
@@ -105,10 +109,10 @@ python filename.py
 
 ## 🧑‍💻 Contributors 🧑‍💻
 
-- **Yakir Yohanan** 🤘😌 
+- **Pazit Akbashev** ✨💻
 - **Elyasaf Cohen** 👊😎
 
-[![Yakir Yohanan](https://img.shields.io/badge/GitHub-yohanan400-FF8C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yohanan400)  
+[![Pazit Akbashev](https://img.shields.io/badge/GitHub-PazitAkbashev-FF8C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PazitAkbashev)  
 [![Elyasaf Cohen](https://img.shields.io/badge/GitHub-ElyasafCohen100-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElyasafCohen100)
 
 ---
