@@ -2,7 +2,7 @@
   <img src="3.png"/>
 </p> 
 
-# 🧠 Neural Networks Homework – Deep Learning Experiments 🚀 
+# 🧠 Neural Networks Homework – Deep Learning Experiments 🚀  
 
 ![GitHub stars](https://img.shields.io/github/stars/ElyasafCohen100/Neural-networks-Home-work?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/ElyasafCohen100/Neural-networks-Home-work?style=social)
